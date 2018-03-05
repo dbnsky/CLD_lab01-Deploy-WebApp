@@ -20,7 +20,7 @@
 
 
 ## TASK 1: SET UP
-###Available regions
+### Available regions
 * USA Est (Virginie du Nord)
 * USA Est (Ohio)
 * USA Ouest (Californie du Nord)
@@ -41,7 +41,7 @@ The closest regions from Yverdon-les-bains is **Paris**
 
 
 ## TASK 2: CREATE AN AMAZON EC2 INSTANCE
-###What is the smallest and the biggest instance type (in terms of virtual CPUs and memory) that you can choose from when creating an instance?   
+### What is the smallest and the biggest instance type (in terms of virtual CPUs and memory) that you can choose from when creating an instance?   
 <center>
 | |     Smallest	|	Biggest		|
 | :--- |:---: | :---: |
@@ -53,10 +53,10 @@ The closest regions from Yverdon-les-bains is **Paris**
 </center>
 
 
-###How long did it take for the new instance to get into the running state? 
+### How long did it take for the new instance to get into the running state? 
 * It takes **about two minutes** to prepare the vm.
 
-###From the EC2 Management Console copy the public DNS name of the instance into the report.
+### From the EC2 Management Console copy the public DNS name of the instance into the report.
 * ec2-52-47-149-170.eu-west-3.compute.amazonaws.com
 
 ### Once you have successfully logged into your EC2 instance, run the hostname and uname -a commands and paste their outputs into the report.
