@@ -175,18 +175,20 @@ Filesystem      Size  Used Avail Use% Mounted on
 
 #### Single-core
 Although the local machine processor has a higher frequency, the overall performance score is relatively close.  
-|	Performance	|     Instance	|   Local	|
+
+|	Performance	|	Instance	|	Local	|
 | :--- |:---: | :---: |
 | Overall	|	2708	|      2973	|
 | Integer	|	2754	|      3154	|
-| Floating Point	|	2551	|      2857	|
+| Floating Point|	2551	|      2857	|
 | Memory	|	2934	|      2845	|
 
 The processors used by Amazon are reserved for a server use. Even the bios have been customized, Amazon operates the equipment 100%!  
 
 #### Multi-core
 The instance type used **t2.micro** has only one virtual processor(=core).  
-|	Performance	|     Instance	|   Local	|
+
+|	Performance	|	Instance	|	Local	|
 | :--- |:---: | :---: |
 | Overall      	|	2680	|      5016	|
 | Integer      	|	2723	|      5793	|
