@@ -42,15 +42,13 @@ The closest regions from Yverdon-les-bains is **Paris**
 
 ## TASK 2: CREATE AN AMAZON EC2 INSTANCE
 ### What is the smallest and the biggest instance type (in terms of virtual CPUs and memory) that you can choose from when creating an instance?   
-<center>
+
 | |     Smallest	|	Biggest		|
 | :--- |:---: | :---: |
 | **Instance** |	t2.nano		|	x1.32xlarge	|
 | **vCPU**	|	1	|	128	|
 | **RAM**	|	0.5	|	1952	|
 | **Stockage**	|	EBS uniquement	|	2 x 1920 (SSD)	|
-
-</center>
 
 
 ### How long did it take for the new instance to get into the running state? 
